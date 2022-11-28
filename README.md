@@ -1,3 +1,3 @@
-# HastaneRandevuOtomasyonu
-C# ve SQL dili kullanarak masaüstü uygulaması geliştirdim.
+# Appointment system
+It is a desktop app using C# and Sql.
 Coder: Yusuf Moğultay yusufmglty@gmail.com
